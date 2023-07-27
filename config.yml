@@ -1,0 +1,14 @@
+version: 2
+accounts:
+  - name: doctors
+    coins: ["10000000000000000000000token",  "10loyalty","100000000stake","5550MYTOKEN"]
+  - name: waste_Managers
+    coins: ["1000token","500loyalty","5550MYTOKEN"]
+  - name: Suppliers
+    coins: ["1500token","5550MYTOKEN"]  
+  - name: manufacture
+    coins: ["1500token","5550MYTOKEN"]  
+
+validator:
+  name: doctors
+  staked: "100000000stake"
